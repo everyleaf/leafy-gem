@@ -6,7 +6,7 @@ Post to leafy
 
 Add this line to your application's Gemfile:
 
-    gem 'leafy', github: 'everyleaf-internal/leafy-gem'
+    gem 'leafy'
 
 And then execute:
 
