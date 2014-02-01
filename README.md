@@ -1,6 +1,6 @@
 # Leafy
 
-TODO: Write a gem description
+Post to leafy
 
 ## Installation
 
@@ -18,7 +18,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+use ruby 2.0+
+
+```rb
+require 'leafy'
+
+client = Leafy::Client.new(room: 'sample', email: 'sample@sample.com', password: 'password')
+client.post! "sample"
+```
 
 ## Contributing
 
