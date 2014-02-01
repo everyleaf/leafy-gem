@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Leafy::VERSION
   spec.authors       = ["Koichi Tanaka"]
   spec.email         = ["k.tanaka@everyleaf.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Post to leafy.}
+  spec.description   = %q{Post to leafy.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
